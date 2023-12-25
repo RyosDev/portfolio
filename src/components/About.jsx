@@ -25,10 +25,10 @@ function About() {
           EXPERIENCE WITH
         </h3>
         <div className="flex justify-center gap-12 h-10 my-10">
-          <img src="./public/javascript.png" alt="JS" />
-          <img src="./public/html.png" alt="HTML" />
-          <img src="./public/css.png" alt="CSS" />
-          <img src="./public/reactjs.png" alt="REACT" />
+          <img src="public/javascript.png" alt="JS" />
+          <img src="public/html.png" alt="HTML" />
+          <img src="public/css.png" alt="CSS" />
+          <img src="public/reactjs.png" alt="REACT" />
         </div>
       </div>
     </section>

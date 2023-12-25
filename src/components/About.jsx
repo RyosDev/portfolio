@@ -1,6 +1,6 @@
 function About() {
   return (
-    <section className="w-full justify-center items-center text-center py-36 ">
+    <section className="w-full justify-center items-center text-center  ">
       <div className="font-black text-5xl text-[#9615db]">
         <h1>Hi, i'm Ry0s</h1>
         <h1>i'm a software developer</h1>

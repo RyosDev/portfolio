@@ -7,15 +7,15 @@ function Footer() {
           <div className="links">
             <div className=" flex py-1">
               <img src="../public/Email.png" alt="" />
-              <h3 className="px-5 text-white">Gmail</h3>
+              <h3 className="px-5 text-white"><a href="mailto:eliastello.dev@gmail.com">eliastello.dev@gmail.com</a></h3>
             </div>
             <div className=" flex py-1">
               <img src="../public/github.png" alt="" />
-              <h3 className="px-5 text-white">Github</h3>
+              <h3 className="px-5 text-white"><a href="https://github.com/Ryos7x">Ryos7x</a></h3>
             </div>
             <div className=" flex py-1">
               <img src="../public/instagram.png" alt="" />
-              <h3 className="px-5 text-white">Instagram</h3>
+              <h3 className="px-5 text-white"><a href="https://www.instagram.com/tesh_ry/?next=%2F">Tesh_ry</a></h3>
             </div>
           </div>
         </div>

@@ -1,6 +1,6 @@
 function Footer() {
   return (
-    <section className="flex w-full bg-[#191919] pt-20">
+    <section className="flex w-full bg-[#191919] pt-5">
       <div className="justify-start mx-40 max-sm:mx-20">
         <h2 className="font-bold text-xl text-white">CONTACT</h2>
         <div className="mt-7">

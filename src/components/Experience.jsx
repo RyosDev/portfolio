@@ -6,19 +6,19 @@ function Experience() {
           EXPERIENCE
         </h2>
       </div>
-      <div className=" ">
-        <div className="w-3/4  my-16 mx-40">
-          <div className="flex justify-between ">
+      <div className="">
+        <div className="my-10 mx-40 max-sm:mx-20">
+          <div className="flex justify-between max-sm:flex-col  ">
             <h3 className="font-bold text-xl text-white">PPV</h3>
             <p className="font-bold text-[#8491A0]">June 2022 - Demceber2022</p>
-          </div>
+          </div>``
           <p className="font-bold text-sm text-[#8491A0] my-5">
             I developed the backend of ppv, (production of sales pages) which
             consisted of creating web pages for entrepreneurs.
           </p>
         </div>
-        <div className="w-3/4  my-16 mx-40">
-          <div className="flex justify-between">
+        <div className="  my-10 mx-40 max-sm:mx-20">
+          <div className="flex justify-between max-sm:flex-col">
             <h3 className="font-bold text-xl text-white">ReTrash</h3>
             <p className="font-bold text-[#8491A0]">May 2023 - Present</p>
           </div>
@@ -28,13 +28,13 @@ function Experience() {
             charge of the hardware and programming part within of the project.
           </p>
         </div>
-        <div className="w-3/4  my-16 mx-40">
-          <div className="flex justify-between">
+        <div className="  my-10 mx-40 max-sm:mx-20">
+          <div className="flex justify-between max-sm:flex-col">
             <h3 className="font-bold text-xl text-white">SportShop</h3>
             <p className="font-bold text-[#8491A0]">Aug 2023 - Present </p>
           </div>
           <p className="font-bold text-sm text-[#8491A0] my-5">
-            I am developing a dynamic website for a company sportswear. I am
+            I am developing a dynamic website for a sportswear company. I am
             currently in charge of the Frontend and web design{" "}
           </p>
         </div>

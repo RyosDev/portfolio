@@ -1,9 +1,9 @@
 function Footer() {
   return (
-    <section className="w-full  bg-[#191919] ">
-      <div className="mx-40">
+    <section className="flex w-full bg-[#191919] ">
+      <div className="justify-start mx-40 max-sm:mx-20">
         <h2 className="font-bold text-xl text-white">CONTACT</h2>
-        <div className="my-7">
+        <div className="mt-7">
           <div className="links">
             <div className=" flex py-1">
               <img src="./public/Email.png" alt="" />

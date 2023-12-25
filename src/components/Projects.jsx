@@ -4,12 +4,12 @@ function Projects() {
       <h2 className="flex justify-center font-extrabold text-4xl text-white">
         PROJECTS
       </h2>
-      <div className="flex justify-between mx-20 gap-40 my-16 text-white">
-        <div className="bg-[#2A2A2A] w-full rounded-xl">
+      <div className="flex justify-between mx-20 gap-32 my-16 max-sm:flex-col max-lg:gap-20   text-white">
+        <div className="bg-[#2A2A2A] w-full rounded-xl h-full">
           <img
             src="./public/retrash-page.png"
             alt=""
-            className=" w-full h-72 rounded-t-2xl"
+            className=" w-full h-72 max-lg:h-40 rounded-t-2xl"
           />
           <div className="flex justify-between mx-5 my-2">
             <div>
@@ -33,7 +33,7 @@ function Projects() {
           <img
             src="./public/sportshop-page.png"
             alt=""
-            className="bg-gray-300 h-72 rounded-t-2xl"
+            className="w-full h-72 max-lg:h-40 rounded-t-2xl"
           />
           <div className="flex justify-between mx-5 my-2">
             <div>

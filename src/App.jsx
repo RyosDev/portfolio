@@ -1,4 +1,3 @@
-import React from "react";
 import Header from "./components/Header";
 import About from "./components/About";
 import Projects from "./components/Projects";
@@ -7,7 +6,7 @@ import Footer from "./components/Footer";
 
 function App() {
   return (
-    <div className="w-full min-h-screen bg-[#161513]">
+    <div className="w-full min-h-screen box-border bg-[#161513] ">
       <Header></Header>
       <About></About>
       <Projects id="projects"></Projects>
@@ -18,3 +17,4 @@ function App() {
 }
 
 export default App;
+1

@@ -14,7 +14,7 @@ function Footer() {
               <h3 className="px-5 text-white">Github</h3>
             </div>
             <div className=" flex py-1">
-              <img src="public/instagram.png" alt="" />
+              <img src="../portfolio/public/instagram.png" alt="" />
               <h3 className="px-5 text-white">Instagram</h3>
             </div>
           </div>
